@@ -12,3 +12,6 @@ aslkdfjlaskdjf;lkasjd;lfkjasd;klfj
 
 a , b = int(input()), int(input())
 print(a+b)
+
+for i in "salomlar":
+    print(i)
