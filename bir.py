@@ -8,3 +8,7 @@ print(c)
 allajsdlfjalsdj lambdaasdlfjaskldjlfkjaskldjflkasjdf
 asldfjaskldj;flksjadl;fkjas;kldjfklasjklfjaslkflasjljf
 aslkdfjlaskdjf;lkasjd;lfkjasd;klfj
+
+
+a , b = int(input()), int(input())
+print(a+b)
