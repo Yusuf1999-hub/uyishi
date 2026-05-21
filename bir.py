@@ -8,3 +8,8 @@ print(c)
 allajsdlfjalsdj lambdaasdlfjaskldjlfkjaskldjflkasjdf
 asldfjaskldj;flksjadl;fkjas;kldjfklasjklfjaslkflasjljf
 aslkdfjlaskdjf;lkasjd;lfkjasd;klfj
+
+
+
+for i in "salomlar":
+    print(i)
